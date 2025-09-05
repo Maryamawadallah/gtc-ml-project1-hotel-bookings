@@ -66,3 +66,6 @@ Created new informative features:
 
 
 ## 📂 Project Structure
+├── hotel_bookings.csv # Original dataset
+├── preprocessing_notebook.ipynb # Code with EDA & Preprocessing
+└── README.md # Project documentation
